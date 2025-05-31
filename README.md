@@ -6,7 +6,7 @@ Set up the official 3D-GS SIBR viewer locally and run trained models
 1.  **Windows Operating System**
 2.  **NVIDIA GPU**
 3.  **Up-to-date NVIDIA GPU Drivers:** Ensure your graphics drivers are current. 
-4.  **(Potentially) Microsoft Visual C++ Redistributables:** Most Windows systems have these. If the viewer fails to launch with a missing DLL error, you might need to install the latest "Visual C++ Redistributable for Visual Studio 2015-2019" from the [Microsoft website].
+4.  **(Skip-and-try) Microsoft Visual C++ Redistributables:** Most Windows systems have these. If the viewer fails to launch with a missing DLL error, you might need to install the latest "Visual C++ Redistributable for Visual Studio 2015-2019" from the [Microsoft website].
 ## Setup and Viewing Instructions
 
 **Step 1: Download the SIBR Pre-built Viewers**
