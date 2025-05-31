@@ -22,7 +22,7 @@ Set up the official 3D-GS SIBR viewer locally and run trained models
 **Step 3: Download a Trained Model**
 
 *   This repository contains a pre-trained "truck" model output. Download it.
-*   Alternatively, if you train your own model, or download pre-trained ones from [official 3D-GS website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/evaluation/images.zip) note the path to your output directory.
+*   Alternatively, if you train your own model, or download pre-trained ones from [official-website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) or [click here (Approx.8GB)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/evaluation/images.zip) note the path to your output directory.
 
 **Step 4: Run the Viewer**
 
