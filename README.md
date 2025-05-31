@@ -34,7 +34,7 @@ Set up the official 3D-GS SIBR viewer locally and run trained models
 
 3.  **Run the viewer application, pointing it to the trained model directory:**
     ```powershell
-    .\SIBR_gaussianViewer_app.exe -m "C:\Path\To\Your\truck_model_output"
+    .\SIBR_gaussianViewer_app.exe -m "C:\Path\To\Your\ae542f1e-6"
     ```
 
 **Step 5: Navigate in the Viewer**
