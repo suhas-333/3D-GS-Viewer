@@ -1,4 +1,4 @@
-# 3D-GS-Viewer-
+# 3D-GS Viewer Setup
 Set up the official 3D-GS SIBR viewer locally and run trained models 
 
 ## Prerequisites
