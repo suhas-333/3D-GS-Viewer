@@ -21,7 +21,7 @@ Set up the official 3D-GS SIBR viewer locally and run trained models
   
 **Step 3: Download a Trained Model**
 
-*   This repository contains a pre-trained "truck" model output. Download it.
+*   Download from: [Trained-model-of-Truck-1](https://drive.google.com/drive/folders/1kuSjaEOcEjccr4YtQdIOofvsQK1YZPiI?usp=drive_link)
 *   Alternatively, if you train your own model, or download pre-trained ones from [official-website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) or [click here (Approx.8GB)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/evaluation/images.zip) note the path to your output directory.
 
 **Step 4: Run the Viewer**
@@ -31,13 +31,11 @@ Set up the official 3D-GS SIBR viewer locally and run trained models
     ```powershell
     cd "C:\Path\To\Your\Extracted\Viewers\bin"
     ```
-    *(Replace `C:\Path\To\Your\Extracted\Viewers\bin` with the actual path from Step 2, e.g., `cd "C:\SIBR_Viewers\bin"`)*
 
 3.  **Run the viewer application, pointing it to the trained model directory:**
     ```powershell
     .\SIBR_gaussianViewer_app.exe -m "C:\Path\To\Your\truck_model_output"
     ```
-    *(Replace `C:\Path\To\Your\truck_model_output` with the actual path to the folder containing your trained truck model from Step 3. Remember to use quotes if the path has spaces.)*
 
 **Step 5: Navigate in the Viewer**
 
